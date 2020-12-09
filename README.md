@@ -1,1 +1,1 @@
-<title>A16z Crypto Canon</title>
+# A16z Crypto Canon
