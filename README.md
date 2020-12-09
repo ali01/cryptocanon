@@ -1,6 +1,6 @@
 # A16z Crypto Canon
 
-## Introduction
+## Getting Started
 
 - [Crypto Networks and Why They Matter](https://www.youtube.com/watch?v=2wxtiNgXBaU), by Chris Dixon
 
